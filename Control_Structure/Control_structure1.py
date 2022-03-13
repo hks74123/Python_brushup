@@ -1,12 +1,13 @@
 # If Else 
 
-""" if CONDITION:
-        code block 1
-    elif CONDITION:
-        code block 2
-    ...
-    else:
-        code block n
+""" Syntax
+if CONDITION:
+    code block 1
+elif CONDITION:
+    code block 2
+...
+else:
+    code block n
 """
 
 score = 80

@@ -19,6 +19,7 @@ print(weight)
 print(weight[1:len(weight)])
 
 # Add and removing list elements
+  
 #append will add element in last of list
 weight.append(80)
 

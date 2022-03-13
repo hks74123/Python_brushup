@@ -1,8 +1,9 @@
 # Loops
 
 # For loop
-""" For ELEMENT in SEQUENCE:
-        code block
+""" Syntax
+For ELEMENT in SEQUENCE:
+    code block...
 """
 
 list=[10,20,30,40,50]
@@ -15,8 +16,9 @@ for i in range(len(list)):
 
 # While Loop
 
-""" While condition:
-        code block
+""" Syntax
+While condition:
+    code block
 """
 
 jj=0
